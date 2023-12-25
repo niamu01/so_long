@@ -38,7 +38,7 @@ make [all, re, clean, fclean, bonus]
 - `make bonus`: Builds, including bonus functions in the library.ap
 
 `*` you can only build this game on *Intel Macs* <br>
-`*` After completing the assignment, I created a new version called so_long.ver2 that runs on different architectures (Linux, M1, Intel). <br>
+`*` After completing the assignment, I created a new version called [so_long.ver2](https://github.com/niamu01/so_long.ver2) that runs on different architectures (Linux, M1, Intel). <br>
 
 ## How To Use
 ```shell

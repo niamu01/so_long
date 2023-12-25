@@ -37,8 +37,8 @@ make [all, re, clean, fclean, bonus]
 - `make fclean`: Removes object files and the library file.
 - `make bonus`: Builds, including bonus functions in the library.ap
 
-`*` you can only build this game on *Intel Macs*
-`*` 과제 이후 다른 아키텍쳐 (linux, m1, intel) 에서 돌아가는 [so_long.ver2](https://github.com/niamu01/so_long.ver2) 를 제작하였음
+`*` you can only build this game on *Intel Macs* <br>
+`*` After completing the assignment, I created a new version called so_long.ver2 that runs on different architectures (Linux, M1, Intel). <br>
 
 ## How To Use
 ```shell

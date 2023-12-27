@@ -8,6 +8,11 @@ This project is a small 2D game with minilibx. And learn about textures, sprites
 ![MAKEFILE](https://img.shields.io/badge/_-MAKEFILE-427819.svg?style=for-the-badge)
 <img src="https://iili.io/JRxYjDl.png" alt="MLX" width="43" height="28">
 
+## Screenshot
+<img width="374" alt="pic" src="https://github.com/niamu01/so_long/assets/74657997/ac8b9539-b11d-44c5-b6f8-16c307388211">
+
+https://github.com/niamu01/so_long/assets/74657997/5946cc75-9cef-4ab3-be35-297c6f02a879
+
 ## Subject
 ### Mandatory
 - Various error handling
@@ -38,7 +43,7 @@ make [all, re, clean, fclean, bonus]
 - `make bonus`: Builds, including bonus functions in the library.ap
 
 `*` you can only build this game on *Intel Macs* <br>
-`*` After completing the assignment, I created a new version called [so_long.ver2](https://github.com/niamu01/so_long.ver2) that runs on different architectures (Linux, M1, Intel). <br>
+`*` After completing the assignment, I created a new version called [so_long.ver2](https://github.com/niamu01/so_long_2) that runs on different architectures (M1, Intel). <br>
 
 ## How To Use
 ```shell
